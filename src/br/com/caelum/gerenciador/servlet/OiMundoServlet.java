@@ -19,7 +19,7 @@ public class OiMundoServlet extends HttpServlet{
         out.println("opa, parabens escrevestes o primeiro servlet.");
         out.println("</body>");
         out.println("</html>");
-        
+   
         System.out.println("Servlet 'OiMundoServlet' iniciado");
 	}
 }
